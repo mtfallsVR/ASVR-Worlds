@@ -6,6 +6,12 @@ URL: https://poly.google.com/view/76TZtaN0feJ
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Apartment building
+Author: Poly by Google
+URL: https://poly.google.com/view/01lqee-dZAr
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: bowie knife
 Author: Marisha
 URL: https://poly.google.com/view/59cMoRQXX6O
@@ -54,6 +60,12 @@ URL: https://poly.google.com/view/2MSOSmhgQKH
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: NYC subway _ IRT R17
+Author: Luke Jaeger
+URL: https://poly.google.com/view/emxWMc5ZSG4
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Random Gears and Columns
 Author: Francis Chen
 URL: https://poly.google.com/view/7GFuhoNPxsw
@@ -63,6 +75,18 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Roman Sword by Griff
 Author: Gateway VR Studio
 URL: https://poly.google.com/view/6o47yKm0fk0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Skyscraper
+Author: Poly by Google
+URL: https://poly.google.com/view/5mOW8KZSHtU
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Skyscrapers
+Author: Poly by Google
+URL: https://poly.google.com/view/6DJeZaACYpm
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
