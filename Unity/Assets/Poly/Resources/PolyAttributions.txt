@@ -150,6 +150,12 @@ URL: https://poly.google.com/view/6DJeZaACYpm
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Star
+Author: Poly by Google
+URL: https://poly.google.com/view/5hrwvzpCArU
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Sword
 Author: Chris Lee
 URL: https://poly.google.com/view/2TGcPBw1noz
